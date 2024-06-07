@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:midtrans_sdk/midtrans_sdk.dart';
+import 'package:midtrans_sdk_v4/midtrans_sdk_v4.dart';
 
 class MidtransSDK {
   static const MethodChannel _channel = const MethodChannel('midtrans_sdk');

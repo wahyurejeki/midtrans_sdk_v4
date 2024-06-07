@@ -1,5 +1,5 @@
 import 'package:json_annotation/json_annotation.dart';
-import 'package:midtrans_sdk/src/models/color_theme.dart';
+import 'package:midtrans_sdk_v4/src/models/color_theme.dart';
 
 part 'midtrans_config.g.dart';
 

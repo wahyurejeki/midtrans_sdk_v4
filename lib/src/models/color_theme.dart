@@ -1,6 +1,6 @@
 import 'dart:ui';
 import 'package:json_annotation/json_annotation.dart';
-import 'package:midtrans_sdk/src/converters.dart';
+import 'package:midtrans_sdk_v4/src/converters.dart';
 
 part 'color_theme.g.dart';
 
