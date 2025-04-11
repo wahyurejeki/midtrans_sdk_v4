@@ -1,4 +1,4 @@
-package dev.tomykho.midtrans_sdk;
+package dev.tomykho.midtrans_sdk_v4;
 
 import android.app.Activity;
 
@@ -34,7 +34,7 @@ public class MidtransSdkPlugin implements FlutterPlugin, MethodCallHandler, Acti
 
   @Override
   public void onAttachedToEngine(@NonNull FlutterPluginBinding flutterPluginBinding) {
-    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "midtrans_sdk");
+    channel = new MethodChannel(flutterPluginBinding.getBinaryMessenger(), "midtrans_sdk_v4");
     channel.setMethodCallHandler(this);
   }
 

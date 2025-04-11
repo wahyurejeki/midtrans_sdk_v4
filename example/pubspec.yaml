@@ -1,4 +1,4 @@
-name: midtrans_sdk_example
+name: midtrans_sdk_v4_example
 description: Demonstrates how to use the midtrans_sdk plugin.
 version: 0.0.1+1
 
@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
   flutter_dotenv: ^4.0.0-nullsafety.1
 
-  midtrans_sdk:
+  midtrans_sdk_v4:
     # When depending on this package from a real application you should use:
     #   midtrans_sdk: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

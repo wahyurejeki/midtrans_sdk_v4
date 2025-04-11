@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:midtrans_sdk_v4/midtrans_sdk.dart';
+import 'package:midtrans_sdk_v4/midtrans_sdk_v4.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart' as DotEnv;
 
 void main() async {
