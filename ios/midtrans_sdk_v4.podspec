@@ -1,6 +1,6 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint midtrans_sdk.podspec` to validate before publishing.
+# Run `pod lib lint midtrans_sdk_v4.podspec` to validate before publishing.
 #
 
 require "yaml"
@@ -12,15 +12,15 @@ Pod::Spec.new do |s|
   s.version          = project.version
   s.summary          = 'A new flutter plugin project.'
   s.description      = project.description
-  s.homepage         = 'http://github.com/tomykho/midtrans_sdk'
+  s.homepage         = 'https://github.com/wahyurejeki/midtrans_sdk_v4'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Tomy Kho' => 'mail@tomykho.dev' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.platform = :ios, '8.0'
-  s.ios.dependency 'MidtransKit', '1.26.1'
+  s.platform = :ios, '15.0'
+  s.ios.dependency 'MidtransKit', '1.26.0'
   s.static_framework = true
 
   # Flutter.framework does not contain a i386 slice.

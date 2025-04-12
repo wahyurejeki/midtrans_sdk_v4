@@ -1,4 +1,4 @@
-# midtrans_sdk
+# midtrans_sdk_v4
 
 A Flutter plugin for [Midtrans Mobile SDK](https://mobile-docs.midtrans.com/). Visit https://midtrans.com.
 
@@ -55,7 +55,7 @@ To start using Midtrans you first need to create an instance of `MidtransSDK` be
 
 *Example:*
 ```dart
-import 'package:midtrans_sdk/midtrans_sdk.dart';
+import 'package:midtrans_sdk_v4/midtrans_sdk_v4.dart';
 
 var config = MidtransConfig(
   clientKey: DotEnv.env['MIDTRANS_CLIENT_KEY'] ?? "",

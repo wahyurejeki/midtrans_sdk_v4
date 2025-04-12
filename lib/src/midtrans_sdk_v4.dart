@@ -4,7 +4,7 @@ import 'package:flutter/services.dart';
 import 'package:midtrans_sdk_v4/midtrans_sdk_v4.dart';
 
 class MidtransSDK {
-  static const MethodChannel _channel = const MethodChannel('midtrans_sdk');
+  static const MethodChannel _channel = const MethodChannel('midtrans_sdk_v4');
   static MidtransSDK _instance = MidtransSDK._();
 
   TransactionFinishedCallback? _transactionFinishedCallback;

@@ -2,7 +2,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
-  const MethodChannel channel = MethodChannel('midtrans_sdk');
+  const MethodChannel channel = MethodChannel('midtrans_sdk_v4');
 
   handler(MethodCall methodCall) async {
     if (methodCall.method == 'yourMethod') {

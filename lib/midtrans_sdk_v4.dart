@@ -1,4 +1,4 @@
-export 'src/midtrans_sdk.dart';
+export 'src/midtrans_sdk_v4.dart';
 export 'src/callbacks.dart';
 export 'src/converters.dart';
 export 'src/models/color_theme.dart';

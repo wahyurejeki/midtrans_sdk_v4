@@ -9,7 +9,7 @@ FlutterMethodChannel* channel;
 
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar {
   channel = [FlutterMethodChannel
-      methodChannelWithName:@"midtrans_sdk"
+      methodChannelWithName:@"midtrans_sdk_v4"
             binaryMessenger:[registrar messenger]];
   MidtransSdkPlugin* instance = [[MidtransSdkPlugin alloc] init];
   [registrar addMethodCallDelegate:instance channel:channel];
