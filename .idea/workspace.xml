@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61fd4389-50fe-435d-a491-baee46c072fd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/midtrans_sdk_v4_example.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/midtrans_sdk.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/ios/midtrans_sdk_v4.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/midtrans_sdk_v4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/midtrans_sdk_v4.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/src/midtrans_sdk_v4.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/midtrans_sdk_v4.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/midtrans_sdk_v4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/midtrans_sdk_v4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/midtrans_sdk_v4_test.dart" beforeDir="false" afterPath="$PROJECT_DIR$/test/midtrans_sdk_v4_test.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,3 +1,5 @@
+## 1.2.6
+- Fix Android Payment
 ## 1.1.6
 - Fix IOS Payment
 ## 1.0.6

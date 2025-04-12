@@ -1,6 +1,6 @@
 name: midtrans_sdk_v4
 description: A Flutter plugin for Midtrans Mobile SDK. Supports iOS and Android.
-version: 1.0.6
+version: 1.2.6
 repository: https://github.com/wahyurejeki/midtrans_sdk_v4.git
 
 environment:
